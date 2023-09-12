@@ -1,6 +1,6 @@
-# Example Terraform module
+# PHPIpam address module
 
-Terraform module which is an example.
+Creates a number of addresses within a PHPIPAM subnet.
 
 
 ## Usage
